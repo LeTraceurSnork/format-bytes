@@ -1,0 +1,9 @@
+# IDEs
+.idea/
+
+# Vendors
+/vendor/
+
+# Caches
+.phpunit.cache/
+.php-cs-fixer.cache
